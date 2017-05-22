@@ -23,13 +23,14 @@ tags:
 # 系统增强
 
 * **BetterZip** : mac上面的最好的解压工具
-* **CHM View** : 查看chm类型的开发文档
-* **Easy New File Free** : 右击桌面，可以像win一样新建文件
+* **[CHM View](https://itunes.apple.com/cn/app/id449814591?mt=12)** : 查看chm类型的开发文档
+* **[Easy New File Free](https://itunes.apple.com/cn/app/easy-new-file/id1162194131?mt=12)** : 右击桌面，可以像win一样新建文件
 * **Scroll Reverser** : 控制鼠标滚轮反转
-* **Sip** : 取色工具
+* **SmoothScroll** : 使鼠标滚轮变得丝滑顺畅
+* **[Sip](http://sipapp.io/)** : 取色工具
 * **Boom 2** : 音效增强
 * **Bartender 2** : 任务栏menu图标整理
-* **iStat Menus** : 系统网速、cpu、内存监控工具
+* **iStat Menus** : 系统网速、cpu、内存监控工具 ====
 * **Moom** : 窗口分屏
 * **JD-GUI** : 查看java编译文件
 * **SwitchResX** : 外接显示器，调节DPI
@@ -61,6 +62,8 @@ tags:
 
 * **百度网盘**
 * **迅雷**
+* **QQ**
+* **微信**
 * **CleanMyMac 3** : 清理mac电脑垃圾
 * **ShadowsocksX** : 翻墙必备
 * **HanderShaker** : mac连接安卓手机
@@ -96,6 +99,10 @@ tags:
 * **Star Order** : github star项目管理工具
 * **Navicat Premium** : 数据库连接管理工具
 * **iTerm** : 终端
+* **JDK**
+* **svn**
+* **Tomact**
+* **maven**
 
 
 # 杂记
