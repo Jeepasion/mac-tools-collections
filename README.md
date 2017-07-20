@@ -85,6 +85,9 @@
 * **maven**
 
 
-# 后记
-
-主要的软件都是在xclient.info上面下载的，感谢!
+# 网站资源
+* [xclient](http://xclient.info/)
+* [mac-torrent-download](http://mac-torrent-download.net/)
+* [macappstore.net](https://www.macappstore.net/)
+* [爱情守望者](https://www.waitsun.com/)
+* [MAC玩法儿](https://www.waerfa.com/)
