@@ -57,14 +57,14 @@
 
 # 开发工具
 
-* **FireFox** : 浏览器
-* **Google Chrome** : 浏览器
-* **IntelliJ IDEA** : java开发IDE
-* **WebStorm** : web开发工具
-* **DataGrip** : 数据库管理软件
-* **SnailSVN** : svn客户端
-* **SecureCRT** : SSH远程连接工具
-* **SecureFX** : ftp工具
+* **[FireFox](http://www.firefox.com.cn/)** : 浏览器
+* **[Google Chrome](https://www.google.cn/chrome/browser/desktop/index.html)** : 浏览器
+* **[IntelliJ IDEA](http://www.jetbrains.com/products.html?fromMenu)** : java开发IDE
+* **[WebStorm](http://www.jetbrains.com/products.html?fromMenu)** : web开发工具
+* **[DataGrip](http://www.jetbrains.com/products.html?fromMenu)** : 数据库管理软件
+* **[SnailSVN](https://itunes.apple.com/us/app/snailsvn/id847259925?ls=1&mt=12)** : svn客户端
+* **[SecureCRT](http://xclient.info/s/securecrt.html?_=4b434de3276a84fe8f3aa9f2a3d4a2b1)** : SSH远程连接工具
+* **[SecureFX](http://xclient.info/s/securefx.html?_=4b434de3276a84fe8f3aa9f2a3d4a2b1)** : ftp工具
 * **[Sublime Text](http://xclient.info/s/sublime-text.html?_=d7fc64e030a5a10d1937784420a8e494)** : 文本编辑器
 * **[Beyond Compare](http://xclient.info/s/beyond-compare.html?_=d7fc64e030a5a10d1937784420a8e494)** : 文本比较工具
 * **[GitHub Desktop](https://desktop.github.com/)** : github GUI客户端
